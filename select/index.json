@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ピーターパン",
+  "base_artist": "優里",
+  "createdAt": "2026-02-10T06:16:46.782853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "右から2番目の星(ピーターパン)",
+      "artist": "Saito Neko",
+      "has_synced": false,
+      "path": "select/01_右から2番目の星(ピーターパン)_Saito_Neko.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピーターパン",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/02_ピーターパン_優里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ピーターパン",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/03_ピーターパン_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ピーターパン",
+      "artist": "由里",
+      "has_synced": true,
+      "path": "select/04_ピーターパン_由里.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピーターパン",
+      "artist": "Yuuri",
+      "has_synced": false,
+      "path": "select/pl_01_ピーターパン_Yuuri.txt"
+    }
+  ]
+}
